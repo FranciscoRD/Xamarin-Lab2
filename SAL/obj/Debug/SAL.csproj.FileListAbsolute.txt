@@ -1,0 +1,5 @@
+C:\Diplomados\Lab2\SAL\bin\Debug\SAL.dll
+C:\Diplomados\Lab2\SAL\bin\Debug\SAL.pdb
+C:\Diplomados\Lab2\SAL\obj\Debug\SAL.csprojResolveAssemblyReference.cache
+C:\Diplomados\Lab2\SAL\obj\Debug\SAL.dll
+C:\Diplomados\Lab2\SAL\obj\Debug\SAL.pdb
